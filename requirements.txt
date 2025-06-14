@@ -1,0 +1,12 @@
+Pillow
+google
+matplotlib
+numpy
+os
+pandas
+random
+scikit-learn
+seaborn
+torch
+torchvision
+tqdm
